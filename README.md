@@ -1,5 +1,8 @@
 # 🧮 Calculadora em Python (Tkinter)
 
+## 📷 Screenshot
+![Calculadora](assets/proj_calculator.png)
+
 Este projeto é uma calculadora simples desenvolvida em Python utilizando a biblioteca Tkinter para interface gráfica.
 
 A ideia foi praticar:
